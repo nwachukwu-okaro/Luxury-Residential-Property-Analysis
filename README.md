@@ -1,6 +1,17 @@
 # Luxury-Residential-Property-Analysis
 This project identifies and analyzes luxury single-family residences valued at $2,000,000 USD and above located within a 30-minute drive-time radius of the intersection of Yamato Rd &amp; US-441, Boca Raton, FL. The final output categorizes these properties by their gated community status and residency type.
 
+# Strategic Use Cases
+This analysis transforms raw municipal data into actionable business intelligence. Key applications include:
+
+Precision Real Estate Marketing: Enables high-end service providers (wealth management, luxury landscaping, or home security) to target households with a verified property interest of $2M+, significantly reducing marketing waste.
+
+Site Selection & Economic Study: Assists luxury brands and retail developers in identifying the "wealth-shed" within a 30-minute commute of core Boca Raton business hubs.
+
+Security & Privacy Assessment: The categorization of Gated vs. Non-Gated status provides a baseline for privacy consultants and high-net-worth individuals to evaluate neighborhood perimeter security.
+
+Investment Portfolio Analysis: The Owner-Occupancy logic (matching site to mailing addresses) helps identify high-value secondary residences and potential investment opportunities within the Palm Beach County luxury market.
+
 # Data Sources
 
 Parcel Geometry & Attributes: Obtained from the Palm Beach County Open Source Database.
